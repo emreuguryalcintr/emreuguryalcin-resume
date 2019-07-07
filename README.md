@@ -2,7 +2,8 @@ Emre Uğur YALÇIN emreuguryalcin.tr@gmail.com                                  
 https://github.com/emreuguryalcintr 
 English (Writing-Intermediate,Reading-Intermediatei,Speaking-Pre-Intermediate), Turkish (Native) 
                                                                                                                                             
-                                                                                                                                            SUMMARY                                                                                                                              
+
+SUMMARY                                                                                                                              
    I graduated as an electronic engineer but have been developing my software skills, especially on android programming since 2016. My aim is to be a senior android developer. 
 
 
@@ -18,10 +19,12 @@ Ege University - Electrical and Electronics Engineering: 2012 – 2016 (Izmir/TU
 
 PROJECTS                                                                                                                                                                           
 Bachelor's Degree Thesis:
+
  I developed android app for testing performance of 3G and 4G. It includes RSSI value analyze, download and upload speeds, and their comparisons (It had been in Play Store between 2016-2017) 
 
 
 Locfly 
+
  LocFly provides to send current location without internet (Google Map Api, Material Design, Services)  
  https://play.google.com/store/apps/details?id=com.tsg.loc.locfly 
  
